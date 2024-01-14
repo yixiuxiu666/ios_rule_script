@@ -5,6 +5,9 @@
 # HOST: 1
 # USER-AGENT: 4
 # TOTAL: 5
+
+HOST-KEYWORD,googleapis,YouTubeMusic
+HOST-KEYWORD,google,YouTubeMusic
 HOST,music.youtube.com,YouTubeMusic
 USER-AGENT,*YouTubeMusic*,YouTubeMusic
 USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic
