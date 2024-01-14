@@ -10,8 +10,10 @@
 # IP6-CIDR: 1
 # USER-AGENT: 7
 # TOTAL: 196
+HOST-KEYWORD,googleapis,YouTube
+HOST-KEYWORD,google,YouTube
 HOST,music.youtube.com,YouTube
-HOST,youtubei.googleapis.com,YouTube
+HOST,youtube.googleapis.com,YouTube
 HOST,yt3.ggpht.com,YouTube
 HOST-SUFFIX,ggpht.cn,YouTube
 HOST-SUFFIX,ggpht.com,YouTube
